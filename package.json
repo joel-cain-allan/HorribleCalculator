@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "vitest": "^1.5.0"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {
+    "matter-js": "^0.19.0",
+    "react": "^18.2.0",
+    "react-colorful": "^5.6.1",
+    "react-custom-roulette": "^1.4.1",
+    "react-dom": "^18.2.0"
+  }
+}
